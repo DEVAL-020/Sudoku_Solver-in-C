@@ -1,1 +1,1 @@
-# Snake_Game-in-C
+# Sudoku_Solver-in-C
